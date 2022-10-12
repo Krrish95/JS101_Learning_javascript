@@ -1,3 +1,6 @@
+// Problem 4 : Store the name, school, grade, section, rollno and the marks scored by the student in 3 subjects
+// Print the report card of the student (You can make it look nice by using some keyboard symbols ).
+
 let name = "Mr. S.Krishna Chaitanya";  
 let sch = "Narayana Jr. College"; 
 let grd = "7.7"; 
