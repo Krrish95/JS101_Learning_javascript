@@ -1,3 +1,6 @@
+// Problem 4: Given 3 numbers (all different values), print which is greatest.
+
+
 let a = 159; 
 let b = 235; 
 let c = 114; 
