@@ -1,4 +1,7 @@
-let day = "inn"; 
+// Problem 5: Given the days of the week in short format "Sun", "Mon" ... print in long format "Sunday", "Monday", ...
+
+
+let day = "wed"; 
 
 switch(day){
   case "sun" : console.log("Sunday"); 
